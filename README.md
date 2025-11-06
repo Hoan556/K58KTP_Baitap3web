@@ -221,6 +221,71 @@ volumes:
   influxdb_data:
   grafana_data:
 ```
+## 4.2. Web IOT: Giám sát dữ liệu IOT.
+Tạo cơ sở dữ liệu trong phpMyAdmin
+<img width="962" height="1002" alt="Ảnh chụp màn hình 2025-11-06 164025" src="https://github.com/user-attachments/assets/efce7936-c9e5-4386-b11f-eaee1b935c9c" />
+Tạo Nodered để kết nối với MariaDB
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3cb06869-1907-4357-a34c-191a912fd24f" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## 5.CẤU HÌNH NGINX
 File nginx/default.conf:
 ```
